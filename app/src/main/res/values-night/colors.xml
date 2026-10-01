@@ -1,0 +1,8 @@
+<resources>
+    <color name="companion_background">#121619</color>
+    <color name="companion_toolbar">#1E262B</color>
+    <color name="companion_card">#263138</color>
+    <color name="companion_border">#43515A</color>
+    <color name="companion_primary_text">#EDF4F7</color>
+    <color name="companion_secondary_text">#B8C6CD</color>
+</resources>

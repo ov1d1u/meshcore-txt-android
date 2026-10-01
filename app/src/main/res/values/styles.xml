@@ -1,0 +1,8 @@
+<resources>
+    <style name="AppTheme" parent="@android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+    <style name="CompanionTheme" parent="AppTheme">
+        <item name="android:statusBarColor">@color/companion_background</item>
+    </style>
+</resources>
